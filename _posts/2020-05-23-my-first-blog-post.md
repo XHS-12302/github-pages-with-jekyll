@@ -4,4 +4,4 @@ date: 2020-05-23
 ---
 
 # this is my blog
-!(blogs)[https://wtfo.site/favicon.ico a]
+![favicon.ico](https://wtfo.gitee.io/favicon.ico "h")
